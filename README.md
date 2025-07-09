@@ -64,7 +64,7 @@ cd HR-Employee-Dashboard
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="img/main.png" alt="Intro Animation" width="700" height="800"/>
+  <img src="img/main.png" alt="Intro Animation" width="700" height="1000"/>
   <br><em>Dashboard</em>
 </p>
 
